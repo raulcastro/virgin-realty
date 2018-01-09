@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en" class="wide wow-animation">
+  <head>
+    <!-- Site Title-->
+    <title>Trinity Tulum - Tulum's First True Lofts - Condos For sale</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <!-- Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,700,300,500">
+    <link rel="stylesheet" href="css/style.css">
+		<!--[if lt IE 10]>
+    <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
+    <script src="js/html5shiv.min.js"></script>
+		<![endif]-->
+  </head>
+  <body>
+    <!-- Page-->
+    <div class="page">
+      <!-- Page Header-->
+      <header class="page-head bg-lighter header-2 text-center">
+       
+        <div class="jumbotron-variant-1">
+          <h1><a href="index.html">TRINITY TULUM</a></h1>
+          <h5>Tulum's First True Lofts</h5>
+        </div>
+        <!-- RD Navbar-->
+        <div class="rd-navbar-wrap">
+                <nav data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fullwidth" data-sm-device-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" class="rd-navbar" data-sm-stick-up-offset="900px" data-md-stick-up-offset="900px" data-lg-stick-up-offset="1000px">
+                    <div class="rd-navbar-inner">
+                        <div class="rd-navbar-inner-wrap">
+                            <!-- RD Navbar Panel-->
+                            <div class="rd-navbar-panel">
+                                <!-- RD Navbar Toggle-->
+                                <button data-rd-navbar-toggle=".rd-navbar-nav-wrap" class="rd-navbar-toggle"><span></span></button>
+                                <!-- RD Navbar Brand-->
+                                <div class="rd-navbar-brand"> 
+                                    <a href="index.html" class="brand-name">Trinity Tulum</a> 
+                                </div>
+                            </div>
+                            <div class="rd-navbar-nav-wrap">
+                                <!-- RD Navbar Nav-->
+                                <ul class="rd-navbar-nav">
+                                    <li> <a href="index.html">VIRGIN REALTY MEXICO
+                                            <span data-custom-toggle="megamenu" class="megamenu-toggle"></span>
+                                         </a>
+                                        <!-- RD Navbar Megamenu-->
+                                    </li>
+                                    
+                                    <li> 
+                                        <a href="index.html">HOME
+                                            <span data-custom-toggle="megamenu" class="megamenu-toggle"></span>
+                                        </a>
+                                        <!-- RD Navbar Megamenu-->
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+      </header>
+      <!-- Page Content-->
+      <main class="page-content">
+     <BR><BR><BR>
+        <section class="section-60">
+          <div class="shell text-center">
+            <div class="range">
+              <div class="cell-xs-6 cell-sm-4"><span class="icon icon-starchip icon-md fa-home"></span>
+                <address class="address address-2">
+                  <div class="h5 tt-u">address:</div>
+                  <div class="reveal-inline-block offset-top-20">
+                      <a href="contacts.html#">Carretera Federal 307, Edificio Terramar, 
+                          Suite #47, Playa del Carmen Q.Roo 77710 Mexico 
+                          <br class="veil reveal-md-inline"> 
+                      </a>
+                  </div>
+                </address>
+              </div>
+              <div class="cell-xs-6 cell-sm-4">
+                  <span class="icon icon-starchip icon-md fa-phone"></span>
+                <div class="h5 tt-u">Phones:</div>
+                  <a href="callto:1 888225 1995" class="txt-darker reveal-block offset-top-20">
+                      USA/CA Toll Free (888) 225 1995
+                  </a>
+                     
+              </div>
+              <div class="cell-xs-6 cell-sm-4 cell-xs-preffix-3 cell-sm-preffix-0 offset-top-30 offset-sm-top-0">
+                  <span class="icon icon-starchip icon-md fa-envelope"></span>
+                <div class="h5 tt-u">e-mail:</div>
+                  <a href="mailto:info@virginrealtymexico.com" class="txt-darker reveal-inline-block offset-top-20">info@virginrealtymexico.com</a>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--Section Contact Info-->
+        <section class="section-60 border-bottom">
+          <div class="shell">
+            <h2 class="text-center divider">Contact us</h2>
+            <!-- RD Mailform-->
+            <form data-form-output="form-output-global" data-form-type="contact" method="post" action="http://virginrealtymexico.com.mx/bat/rd-mailform.php" class="rd-mailform text-left offset-top-93">
+              <div class="range">
+                <div class="cell-sm-4">
+                  <div class="form-group">
+                    <label for="contact-name" class="form-label">Name:</label>
+                    <input id="contact-name" type="text" name="name" data-constraints="@Required" class="form-control">
+                  </div>
+                </div>
+                <div class="cell-sm-4">
+                  <div class="form-group">
+                    <label for="contact-email" class="form-label">E-Mail:</label>
+                    <input id="contact-email" type="email" name="email" data-constraints="@Required @Email" class="form-control">
+                  </div>
+                </div>
+                <div class="cell-sm-4">
+                  <div class="form-group">
+                    <label for="contact-phone" class="form-label">Phone:</label>
+                    <input id="contact-phone" type="text" name="phone" data-constraints="@Required @Numeric" class="form-control">
+                  </div>
+                </div>
+                <div class="cell-xs-12 offset-top-30">
+                  <div class="form-group">
+                    <label for="contact-message" class="form-label">Message:</label>
+                    <textarea id="contact-message" name="message" data-constraints="@Required" class="form-control"></textarea>
+                  </div>
+                </div>
+              </div>
+              <div class="text-center offset-top-30">
+                <button type="submit" class="btn btn-transparent btn-sm">Send</button>
+                <button type="reset" class="btn btn-transparent btn-sm">Clear</button>
+              </div>
+            </form>
+          </div>
+        </section>
+      </main>
+      <!-- Page Footer-->
+      <footer class="page-foot section-90">
+        <div class="container text-center">
+          
+          <p class="offset-top-70">Trinity Tulum &#169; 
+              <span id="copyright-year"></span> 
+              <span>&#8226;</span> 
+              <a href="#" class="txt-base">Privacy Policy</a>
+          </p>
+        </div>
+      </footer>
+    </div>
+    <!-- Global Mailform Output-->
+    <div id="form-output-global" class="snackbars"></div>
+    <!-- PhotoSwipe Gallery-->
+    <div tabindex="-1" role="dialog" aria-hidden="true" class="pswp">
+      <div class="pswp__bg"></div>
+      <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+          <div class="pswp__item"></div>
+          <div class="pswp__item"></div>
+          <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+          <div class="pswp__top-bar">
+            <div class="pswp__counter"></div>
+            <button title="Close (Esc)" class="pswp__button pswp__button--close"></button>
+            <button title="Share" class="pswp__button pswp__button--share"></button>
+            <button title="Toggle fullscreen" class="pswp__button pswp__button--fs"></button>
+            <button title="Zoom in/out" class="pswp__button pswp__button--zoom"></button>
+            <div class="pswp__preloader">
+              <div class="pswp__preloader__icn">
+                <div class="pswp__preloader__cut">
+                  <div class="pswp__preloader__donut"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+            <div class="pswp__share-tooltip"></div>
+          </div>
+          <button title="Previous (arrow left)" class="pswp__button pswp__button--arrow--left"></button>
+          <button title="Next (arrow right)" class="pswp__button pswp__button--arrow--right"></button>
+          <div class="pswp__caption">
+            <div class="pswp__caption__cent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Java script-->
+    <script src="js/core.min.js"></script>
+    <script src="js/script.js"></script>
+    <!-- begin olark code-->
+    
+    
+    <!-- end olark code-->
+    
+    
+  </body><!-- End Google Tag Manager -->
+</html>
