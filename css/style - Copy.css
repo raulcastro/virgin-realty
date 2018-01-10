@@ -1528,7 +1528,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #00abf5;
+  color: #fec20b;
   text-decoration: underline;
 }
 
@@ -1732,7 +1732,7 @@ mark,
 }
 
 .text-center {
-  text-align: justify;
+  text-align: center;
 }
 
 .text-justify {
@@ -10732,7 +10732,7 @@ mark, .mark {
 }
 
 .list-inline-xs {
-  margin-left: 44px;
+  margin-left: -3px;
   margin-right: -3px;
 }
 
@@ -42219,45 +42219,6 @@ fieldset[disabled] .rd-file-picker-btn {
   .time_circles > div > span {
     font-size: 34px !important;
   }
-    
-    footer{
-        background-color: #222;
-        padding: 50px 0;
-    }
-    
-    footer h2 {
-        color:#00abf5;
-    }
-    
-    footer h4 {
-        color: #bebebe;
-    }
-    
-    footer p {
-        color:#bebebe;
-    }
-    
-    footer li {
-        list-style-type: none;
-        float: left;
-        margin-right: 60px;
-        margin-left: -40px;
-        line-height: 3;
-    }
-    
-    footer li a {
-        color:#bebebe;
-        font-size: 16px!important;
-    }
-    
-    footer li a: hover {
-        color:#00abf5!important;
-    }
-    
-    .list-network li a {
-        font-size: 20px!important;
-    }
-    
-    
+}
 
 /*# sourceMappingURL=style.css.map */
