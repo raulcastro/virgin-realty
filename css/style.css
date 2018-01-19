@@ -1611,7 +1611,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: 'Teko',sans-serif;
   font-weight:400;
   line-height: 1.1;
-  color: #000000;
+  color: #2c3e50;
 }
 
 h1 small,
@@ -12100,7 +12100,7 @@ fieldset[disabled] .tags-list .btn-primary {
     padding-bottom: 100px;
   }
   .section-md-114 {
-    padding-top: 114px;
+    padding-top: 190px;
     padding-bottom: 114px;
   }
   .section-md-160 {
@@ -30274,7 +30274,7 @@ fieldset[disabled] .context-dark .btn-primary {
 }
 
 .rd-navbar {
-    background-color: #262626;
+    background-color: #262626!important;
   display: none;
   position: relative;
   z-index: 99999;
@@ -31519,7 +31519,7 @@ fieldset[disabled] .context-dark .btn-primary {
 }
 
 .rd-navbar-default.rd-navbar-static .rd-navbar-brand img {
-  width: 70px;
+  width:;
   height: 70px;
   transition: 0.25s all ease;
 }
@@ -31576,7 +31576,14 @@ fieldset[disabled] .context-dark .btn-primary {
 
 .rd-navbar-default.rd-navbar-static .rd-navbar-top-panel {
   padding: 4px 20px 5px;
-  color: #fff;
+  color: #1dacf2;
+    font-family:  'Lato',sans-serif!important;
+    font-size: 16px!important;
+}
+
+.rd-navbar-default.rd-navbar-static .rd-navbar-top-panel a {
+    font-family:  'Lato',sans-serif!important;
+    font-size: 16px!important;
 }
 
 .rd-navbar-default.rd-navbar-static .rd-navbar-top-panel-left-part {
@@ -31600,7 +31607,8 @@ fieldset[disabled] .context-dark .btn-primary {
 
 .rd-navbar-default.rd-navbar-static .rd-navbar-top-panel .icon {
   font-size: 20px;
-  opacity: .3;
+  opacity: 1;
+    color: #1dacf2;
 }
 
 .rd-navbar-default.rd-navbar-static .rd-navbar-top-panel .icon.mdi-email-open, .rd-navbar-default.rd-navbar-static .rd-navbar-top-panel .icon.mdi-login {
