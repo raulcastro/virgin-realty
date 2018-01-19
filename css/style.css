@@ -7993,6 +7993,7 @@ iframe {
 [class*="cell-"] {
   padding-left: 15px;
   padding-right: 15px;
+padding-top: 170px;
 }
 
 html.lt-ie-10 * + .range,
@@ -42237,7 +42238,7 @@ fieldset[disabled] .rd-file-picker-btn {
     
     footer{
         background-color: #222;
-        padding: 50px 0;
+        padding top: 50px;
     }
     
     footer h2 {
