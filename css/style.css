@@ -24301,11 +24301,11 @@ html .group-bottom > *, html .group-bottom > *:first-child {
 }
 
 .quote-classic-boxed q {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.33;
   font-weight: 400;
   color: #2d2e2e;
-  font-family: "Roboto Slab", "Times New Roman", Times, serif;
+  font-family: 'Lato',sans-serif;
 }
 
 .quote-classic-boxed q:before, .quote-classic-boxed q:after {
@@ -24329,7 +24329,7 @@ html .group-bottom > *, html .group-bottom > *:first-child {
     font-size: 14px;
   }
   .quote-classic-boxed q {
-    font-size: 24px;
+    font-size: 20px;
     line-height: 36px;
   }
 }
@@ -25262,16 +25262,16 @@ textarea.form-control {
 }
 
 .form-control::-moz-placeholder {
-  color: #2d2e2e;
+  color: #bebebe;
   opacity: 1;
 }
 
 .form-control:-ms-input-placeholder {
-  color: #2d2e2e;
+  color: #bebebe;
 }
 
 .form-control::-webkit-input-placeholder {
-  color: #2d2e2e;
+  color: #bebebe;
 }
 
 .form-control:focus {
