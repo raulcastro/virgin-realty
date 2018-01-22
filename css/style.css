@@ -1866,8 +1866,8 @@ a.bg-danger:focus {
 
 ul,
 ol {
-  margin-top: -10px;
-  margin-bottom: 11px;
+  margin-top: -20px;
+  margin-bottom: 28px;
 }
 
 ul ul,
@@ -7917,7 +7917,7 @@ html *:first-child {
 }
 
 html *:last-child {
-  margin-bottom: 4px;
+  margin-bottom: 1px;
 }
 
 a:hover,
@@ -7993,7 +7993,7 @@ iframe {
 [class*="cell-"] {
   padding-left: 15px;
   padding-right: 15px;
-padding-top: 170px;
+padding-top: 50px;
 }
 
 html.lt-ie-10 * + .range,
@@ -32000,11 +32000,11 @@ fieldset[disabled] .context-dark .btn-primary {
 
 .rd-navbar-transparent.rd-navbar-static .rd-navbar-nav-wrap {
   display: inline-block;
-  margin-top: 25px;
+  margin-top: 28px;
 }
 
 .rd-navbar-transparent.rd-navbar-static .rd-navbar-menu-wrap {
-  padding: 27px 50px 0;
+  padding: 20px 50px 1px;
   text-align: right;
 }
 
@@ -42515,5 +42515,9 @@ div.wpcf7 .screen-reader-response {
     .title-properties{
         color: #2c3e50!important;
         font-size: 40px;
+    }
+    
+    .ctm{
+        padding-top: 80px!important;
     }
 /*# sourceMappingURL=style.css.map */
