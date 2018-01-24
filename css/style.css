@@ -30006,15 +30006,15 @@ fieldset[disabled] .context-dark .btn-default {
 }
 
 .navbar-inverse .btn-primary, .context-dark .btn-primary {
-  color: #fff;
-  background-color: #fec20b;
-  border-color: #fec20b;
+  color: #434345;
+  background-color: #fff;
+  border-color: #fff;
 }
 
 .navbar-inverse .btn-primary:focus, .context-dark .btn-primary:focus, .navbar-inverse .btn-primary.focus, .context-dark .btn-primary.focus, .navbar-inverse .btn-primary:hover, .context-dark .btn-primary:hover, .navbar-inverse .btn-primary:active, .context-dark .btn-primary:active, .navbar-inverse .btn-primary.active, .context-dark .btn-primary.active,
 .open > .navbar-inverse .btn-primary.dropdown-toggle,
 .open > .context-dark .btn-primary.dropdown-toggle {
-  color: #fec20b;
+  color: #434345;
   background-color: #fff;
   border-color: #fff;
 }
