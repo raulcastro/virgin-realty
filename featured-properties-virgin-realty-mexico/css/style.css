@@ -412,8 +412,8 @@ hr {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: Playfair Display;
-  font-weight: 700;
+  font-family: 'Lato',sans-serif;
+  font-weight: 400;
   line-height: 1.1;
   color: #000; }
   h1 small,
@@ -5903,7 +5903,7 @@ html *:first-child {
   margin-top: 0; }
 
 html *:last-child {
-
+    
  }
 
 .shell,
@@ -22434,7 +22434,7 @@ background-color: #262626}
   .rd-navbar-static .rd-navbar-toggle {
     margin-left: 40px; }
   .rd-navbar-static .rd-navbar-menu {
-    font-weight: 700;
+    font-weight: 400;
     font-family: 'Teko',sans-serif;
     letter-spacing: 0.05em;
       font-size:19px; }
@@ -22466,8 +22466,8 @@ background-color: #262626}
     transition: padding 0.45s cubic-bezier(0.22, 0.61, 0.36, 1); }
     @media (min-width: 768px) {
       .rd-navbar-static .rd-navbar-inner {
-        padding-top: 46px;
-        padding-bottom: 46px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         -webkit-flex-direction: row;
         -ms-flex-direction: row;
         flex-direction: row; } }
@@ -25940,3 +25940,8 @@ h1, h2, h3 {
     border-color: #00abf5;
     color: #222!important;
 }
+
+.golden {
+    color: #ff9401!important;
+    
+    
