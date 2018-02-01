@@ -3102,7 +3102,7 @@ fieldset[disabled] .btn-default.focus {
   color: #fff;
   background-color: #337ab7;
   border-color: #2e6da4;
-    border: 4px solid #000!important;
+    border: 2px solid #000!important;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -11249,7 +11249,7 @@ mark, .mark {
   color: #000;
   background-color: transparent;
   border-color: #000;
-    border: 4px solid #000!important;
+    border: 2px solid #000!important;
 }
 
 .btn-default:focus, .btn-default.focus, .btn-default:hover, .btn-default:active, .btn-default.active,
@@ -11337,7 +11337,7 @@ fieldset[disabled] .btn-primary {
   color: #000;
   background-color: transparent;
   border-color: #000;
-    border:4px solid #000;
+    border:2px solid #000;
 }
 
 .btn-primary-transparent:focus, .btn-primary-transparent.focus, .btn-primary-transparent:hover, .btn-primary-transparent:active, .btn-primary-transparent.active,
@@ -11382,7 +11382,7 @@ fieldset[disabled] .btn-primary-transparent {
   color: #000;
   background-color: transparent;
   border-color: #000;
-    border:4px solid #000;
+    border:2px solid #000;
     
 }
 
@@ -12101,7 +12101,7 @@ fieldset[disabled] .tags-list .btn-primary {
     padding-bottom: 100px;
   }
   .section-md-114 {
-    padding-top: 45px;
+    padding-top: 60px;
     padding-bottom: 114px;
   }
   .section-md-160 {
